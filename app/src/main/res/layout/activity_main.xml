@@ -17,6 +17,7 @@
         app:layout_constraintWidth="match_parent"
         android:id="@+id/output_window"
         android:layout_marginBottom="20dp"
+        android:textAlignment="textEnd"
         />
 
 
@@ -187,7 +188,7 @@
         android:layout_toEndOf="@id/zeroRow"
         android:text="="
         android:layout_marginTop="10dp"
-        android:id="@+id/butt_result"/>
+        android:id="@+id/butt_result"/><!--ResultButton-->
 
 
 
